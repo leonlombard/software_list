@@ -9,7 +9,7 @@ A list of all the notable software/applications I have an interest in
 
 [Handbrake](https://handbrake.fr) - The open source video transcoder
 
-## Education
+## Training
 
 [TypingAI](https://www.typingai.com) - An artificially intelligent typing tutor for professionals and programmers 
 
