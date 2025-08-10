@@ -12,3 +12,7 @@ A list of all the notable software/applications I have an interest in
 ## Education
 
 [TypingAI](https://www.typingai.com) - An artificially intelligent typing tutor for professionals and programmers 
+
+## Virtualization
+
+[UTM](https://mac.getutm.app) - Securely run operating systems on your Mac
